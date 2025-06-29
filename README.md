@@ -4,7 +4,10 @@ This is a fun, interactive **Mad Libs game** written in Python. The player is pr
 
 🙏 Credits
 🧠 Tutorial inspiration:
-Madlibs Python Tutorial | Beginner Python Project by Tech With Tim
+
+Madlibs Python Tutorial | Beginner Python Project
+https://www.youtube.com/watch?v=GdBV4irqOd8
+
 ✍️ Story generated with help from ChatGPT (OpenAI)
 
 
